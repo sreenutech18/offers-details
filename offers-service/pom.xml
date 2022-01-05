@@ -13,7 +13,7 @@
 	<artifactId>offers-service</artifactId>
 	<version>1.0-SNAPSHOT</version>
 	<name>offers-service</name>
-	<description>This is offers server</description>
+	
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
