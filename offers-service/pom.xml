@@ -76,5 +76,11 @@
 			</plugin>
 		</plugins>
 	</build>
+	
+	<scm>
+    <connection>scm:git:git@github.com:sreenutech18/offers-details.git</connection>
+    <developerConnection>scm:git:git@github.com:sreenutech18/offers-details.git</developerConnection>
+    <url>https://github.com/sreenutech18/offers-details</url>
+  </scm>
 
 </project>
